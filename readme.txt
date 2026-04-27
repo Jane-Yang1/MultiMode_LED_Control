@@ -58,8 +58,7 @@
 │   │
 │   └── SYSTEM                  # 系统核心驱动
 │       ├── sys                 # 系统时钟与中断配置
-│       ├── delay               # 延时函数
-│       └── usart               # 串口通信（printf重定向）
+│       └── delay               # 延时函数
 │
 └── Projects                    # 工程文件
     └── MDK-ARM                 # Keil MDK工程目录
